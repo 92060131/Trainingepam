@@ -1,20 +1,21 @@
 package com.epam.local.tasktwo;
 
-import java.util.Scanner;
-
 public class MathLogic {
-    public static double countOne(double a,double b){
-            System.out.println("Подсчет периметра или площади? p/s?");
-            Scanner scan = new Scanner(System.in);
-            String c = scan.nextLine();
-            double z = c.equals("p") ? (a + b + Math.sqrt(a * a + b * b)) : (a * b) / 2;
+    public static double countDoublePerimeter(double a,double b){
+            double z = a + b + Math.sqrt(a * a + b * b);
             return z;
     }
-    public static int countTwo(int a,int b){
-        System.out.println("Подсчет периметра или площади? p/s?");
-        Scanner scan=new Scanner(System.in);
-        String c= scan.nextLine();
-        int z=c.equals("p")?(a+b+(int)(Math.sqrt(a*a+b*b))):(a*b)/2;
+    public static int countIntPerimeter(int a,int b){
+        int z=a+b+(int)Math.sqrt(a*a+b*b);
         return z;
     }
+    public static int countIntSquare(int a,int b){
+        int z=(a*b)/2;
+        return z;
+    }
+    public static double countDoubleSquare(double a,double b){
+        double z=(a*b)/2;
+        return z;
+    }
+
 }

@@ -1,11 +1,19 @@
 package com.epam.local.tasknone;
+
+import com.epam.local.tasktwo.MathInit;
+
 public class MathController {
     public static void main(String[] args) {
-        MathInit.initOne();
-        double z=MathLogic.countOne(MathInit.a,MathInit.b,MathInit.c);
-        MathOutput.outputOne(z);
-        MathInit.initTwo();
-        int k=MathLogic.countTwo(MathInit.f,MathInit.g,MathInit.h);
-        MathOutput.outputTwo(k);
+        MathInit in= new MathInit();
+        int a=in.initsInt(" a=");
+        int b=in.initsInt(" b=");
+        int c=in.initsInt(" c=");
+        int z=MathLogic.countInt(a,b,c);
+        MathOutput.outputTwo(z);
+        double g=in.initsDouble(" g=");
+        double d=in.initsDouble(" d=");
+        double h=in.initsDouble(" h=");
+        double k=MathLogic.countDouble(h,g,d);
+        MathOutput.outputOne(k);
     }
 }

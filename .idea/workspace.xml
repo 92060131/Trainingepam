@@ -2,24 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b8a04a1-7da1-47a0-ba4f-a2caf32247f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/taskfour/ArrayController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/taskfour/ArrayLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/taskfour/ArrayOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathLogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskfour/ArrayOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskfour/ArrayOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasknone/MathController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasknone/MathController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasknone/MathInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasknone/MathLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasknone/MathLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskthree/ArrayController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskthree/ArrayController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskthree/ArrayInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskthree/ArrayInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskthree/ArrayLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/taskthree/ArrayLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathLogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Git/com/epam/local/tasktwo/MathOutput.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/tasknone/MathLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/taskthree/ArrayLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/local/tasktwo/MathOutput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +53,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Application.ArrayController (1)">
+  <component name="RunManager" selected="Application.MathController">
     <configuration name="ArrayController (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.epam.local.taskfour.ArrayController" />
       <module name="Git" />
@@ -104,10 +110,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayController (1)" />
+        <item itemvalue="Application.MathController" />
         <item itemvalue="Application.ArrayController" />
         <item itemvalue="Application.MathController (1)" />
-        <item itemvalue="Application.MathController" />
+        <item itemvalue="Application.ArrayController (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +125,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644474220292</updated>
-      <workItem from="1644474234699" duration="10398000" />
+      <workItem from="1644474234699" duration="11365000" />
+      <workItem from="1644607990500" duration="5159000" />
+      <workItem from="1644658767721" duration="2411000" />
+      <workItem from="1644775181564" duration="584000" />
     </task>
     <servers />
   </component>
