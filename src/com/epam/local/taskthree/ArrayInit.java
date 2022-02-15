@@ -4,12 +4,13 @@ public class ArrayInit {
     static int length;
     static int []arr;
     public static int[] push(){
+        @SuppressWarnings("resource")
         Scanner scan=new Scanner(System.in);
         System.out.print("Введите размер массива:");
         if(scan.hasNextInt()) {
             length = scan.nextInt();
         }else{
-            System.out.println("Введите число!");
+            System.out.println("Введите число типа (int)!");
         }
         arr=new int[length];
         System.out.print("Введите элементы массива:");
